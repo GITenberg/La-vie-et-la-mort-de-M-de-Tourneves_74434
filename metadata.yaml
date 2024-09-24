@@ -1,0 +1,32 @@
+_repo: La-vie-et-la-mort-de-M-de-Tourneves_74434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Derennes, Charles
+    birthdate: 1882
+    deathdate: 1930
+    gutenberg_agent_id: '53060'
+    url: http://www.gutenberg.org/2009/agents/53060
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Derennes
+    - https://fr.wikipedia.org/wiki/Charles_Derennes
+description: ''
+gutenberg_issued: '2024-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74434'
+language: fr
+pgterms:marc904: https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001104866806
+pgterms:marc905: 20240219222309derennes
+pgterms:marc906: '1907'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque municipale de Lyon (SJ B 753/123))
+publication_note: '  $aParis :$bBernard Grasset, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La vie et la mort de M. de Tournèves
+url: http://www.gutenberg.org/ebooks/74434
